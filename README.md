@@ -15,6 +15,7 @@ Jump to sections:
 1. [scRNA Basic Analysis](#1-scrna-basic-analysis)
 2. [scRNA Advanced Analysis](#2-scrna-advanced-analysis)  
 3. [scATAC Basic Analysis](#3-scatac-basic-analysis)
+4. scATAC Advanced Analysis (Writing in progress)
 
 ---
 
@@ -235,4 +236,4 @@ Conceptually, the algorithm finds an alignment where the gene activity scores fr
 
 ## 4. scATAC Advanced Analysis
 
-Writing in progress
+Writing in progress...
